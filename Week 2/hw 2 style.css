@@ -1,3 +1,80 @@
-div{
-	background: blue;
+.header{
+	background-image: url('img/header_bg.jpg') cover no-repeat;
+	width: 100px;
+	align-content: center;
 }
+h1{
+	font-weight: extrabold;
+	font-size: 24px;
+}
+
+h2{
+	font-weight: semibold; 
+	font-size: 24px;
+}
+
+h5{
+	font-weight: extrabold;
+	font-size: 14px;
+	border-radius: 5px;
+}
+
+h3{
+	font-size: 20px
+	font-weight: semibold;
+}
+
+p{
+	font-weight: light;
+	font-size: 13px;
+}
+
+ul{
+	font-weight: lighter;
+	font-size: 13px;
+}
+
+blocked-quote{
+	font-weight: semibold;
+	font-size: 18px;
+}
+
+h4{
+	font-weight: extrabold;
+	font-size: 12px;
+	border-radius: 5px;
+}
+
+h6{
+	font-weight: semibold;
+	font-size: 9px;
+
+}
+
+.content{
+	background: #f9e42e;
+	margin: auto;
+	padding: 10px
+	width: 50%;
+}
+
+.quote{
+	align-content: center;
+
+}
+
+.aside{
+	align-content: center;
+
+}
+
+.footer{
+	align-content: center;
+
+
+}
+
+body{
+
+}
+
